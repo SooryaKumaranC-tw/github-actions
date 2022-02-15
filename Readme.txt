@@ -1,1 +1,1 @@
-When folder1 is modified trigger some respective build
+When respective folder files are modified it triggers the respective Github actions.
