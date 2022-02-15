@@ -1,1 +1,3 @@
 Folder 3
+
+GHA is triggered when folder 3 is edited

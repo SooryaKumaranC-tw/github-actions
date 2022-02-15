@@ -1,5 +1,3 @@
 Folder 1 
 
-I am testing the GHA flow
-
-Using patern match '**' also added quote
+GHA is triggered when folder 1 is edited
