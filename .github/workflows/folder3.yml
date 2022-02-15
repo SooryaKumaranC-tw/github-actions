@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - folder3
+      - 'folder3/**'
 
 jobs:
   trigger-for-folder3:
