@@ -1,0 +1,1 @@
+When folder1 is modified trigger some respective build
