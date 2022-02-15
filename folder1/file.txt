@@ -1,3 +1,5 @@
 Folder 1 
 
 I am testing the GHA flow
+
+Using patern match '**'
