@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ${{ github.repository }}/folder1
 
 jobs:
   trigger-for-folder1:
