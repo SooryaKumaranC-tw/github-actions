@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - ${{ github.workspace }}/folder2
+      - ./folder2
 
 jobs:
   trigger-for-folder2:
