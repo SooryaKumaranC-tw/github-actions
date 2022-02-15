@@ -1,0 +1,16 @@
+name: Testing for folder3
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - folder3
+
+jobs:
+  trigger-for-folder3:
+    runs-on: ubuntu-latest
+    steps:
+      - run: ls
+      - run: echo "This is folder 3"
+    
